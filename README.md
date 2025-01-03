@@ -3,6 +3,13 @@
 - Backend : Java Springboot
 - Frontend : HTML, CSS, and JavaScript
 
-## reference for websockets 
+ ## Notes - concepts
+   - Setting up a broker for handling WebSocket messaging in Spring Boot. 
+   - Building controllers to handle message exchange between clients.
+   - Managing disconnection events.
+   - Enabling message dissemination to multiple connected clients.
+   - Writing JavaScript to establish WebSocket connections, send messages, and display received messages.
+
+## Reference for websockets 
 - https://youtu.be/TywlS9iAZCM?si=r2Pn4Zj_tCbHKI5x
 
